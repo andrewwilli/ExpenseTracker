@@ -1,9 +1,8 @@
 # ExpenseTracker
 
 ## Description
-This is a simple mobile app for cooking enthusiast, who don't know what to cook exactly.
-Therefore it will show daily random recipes. If you want specific recipes, there is a filter function for certain cuisines and a search function. 
-In the detailed recipe, there are all essential information and the important nutritions are shown.
+In this day and age payments are mostly done by card. Which is convenient but there is not really an overview.
+This ultra simple mobile app makes it possible to keep track of expenses.
 
 
 
